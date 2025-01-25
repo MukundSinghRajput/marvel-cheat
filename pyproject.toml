@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "marvel-cheat"
+version = "0.1.0"
+description = ""
+authors = ["MukundSinghRajput <mukundsrajput@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pyrotgfork = {git = "https://github.com/TelegramPlayGround/Pyrogram.git"}
+mukund = "^1.0.3"
+pyromod = "^3.1.6"
+psycopg2-binary = "^2.9.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

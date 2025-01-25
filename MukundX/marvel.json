@@ -1,0 +1,1835 @@
+{
+  "AgADR7cxGw5XpVM": {
+    "name": "Iron Man"
+  },
+  "AgADO8IxGxsiyFc": {
+    "name": "Captain America"
+  },
+  "AgADQMIxGxsiyFc": {
+    "name": "Thor"
+  },
+  "AgADVrYxG2O6JFE": {
+    "name": "Black widow"
+  },
+  "AgADRMIxGxsiyFc": {
+    "name": "Hawkeye"
+  },
+  "AgADSMIxGxsiyFc": {
+    "name": "Hulk"
+  },
+  "AgADS8IxGxsiyFc": {
+    "name": "Wanda"
+  },
+  "AgADU8IxGxsiyFc": {
+    "name": "Bucky"
+  },
+  "AgADqbYxG7CrrVM": {
+    "name": "Star lord"
+  },
+  "AgADR7cxG8AXrVM": {
+    "name": "Gamora"
+  },
+  "AgADV8IxGxsiyFc": {
+    "name": "Rocket"
+  },
+  "AgADHLAxG2BBHVA": {
+    "name": "Nebula"
+  },
+  "AgADzsExG7pkqFc": {
+    "name": "Drax"
+  },
+  "AgADz8ExG7pkqFc": {
+    "name": "Rhodey"
+  },
+  "AgADCrcxGwOkrVM": {
+    "name": "Nick Fury"
+  },
+  "AgADwa0xG5j_zVE": {
+    "name": "Peggy carter"
+  },
+  "AgADT7YxG87SrFM": {
+    "name": "Mantis"
+  },
+  "AgADgLcxG_gUrVM": {
+    "name": "Falcon"
+  },
+  "AgADZ7YxG1ERrVM": {
+    "name": "Groot"
+  },
+  "AgADbcIxG7pkqFc": {
+    "name": "Vision"
+  },
+  "AgADkLYxG1zKrVM": {
+    "name": "Antman"
+  },
+  "AgADY60xG4zd3FA": {
+    "name": "Hope"
+  },
+  "AgADdMIxG7pkqFc": {
+    "name": "Ancient one"
+  },
+  "AgADLr4xG7pksFc": {
+    "name": "Spiderman"
+  },
+  "AgADL74xG7pksFc": {
+    "name": "Dr Strange"
+  },
+  "AgADMr4xG7pksFc": {
+    "name": "Hank Pym"
+  },
+  "AgADNL4xG7pksFc": {
+    "name": "Black panther"
+  },
+  "AgADN74xG7pksFc": {
+    "name": "Valkyrie"
+  },
+  "AgADPr4xG7pksFc": {
+    "name": "Shuri"
+  },
+  "AgADP74xG7pksFc": {
+    "name": "Korg"
+  },
+  "AgADQb4xG7pksFc": {
+    "name": "Okoye"
+  },
+  "AgADQr4xG7pksFc": {
+    "name": "M Baku"
+  },
+  "AgADQ74xG7pksFc": {
+    "name": "Captain Marvel"
+  },
+  "AgADRb4xG7pksFc": {
+    "name": "Yelena"
+  },
+  "AgADSL4xG7pksFc": {
+    "name": "Red Guardian"
+  },
+  "AgADSb4xG7pksFc": {
+    "name": "Shang Chi"
+  },
+  "AgADUL4xG7pksFc": {
+    "name": "Xu"
+  },
+  "AgADi74xG7pksFc": {
+    "name": "Ikaris"
+  },
+  "AgADlb4xG7pksFc": {
+    "name": "Sersi"
+  },
+  "AgADnL4xG7pksFc": {
+    "name": "Thena"
+  },
+  "AgADnr4xG7pksFc": {
+    "name": "Druig"
+  },
+  "AgADo74xG7pksFc": {
+    "name": "Makkari"
+  },
+  "AgADpL4xG7pksFc": {
+    "name": "Kingo"
+  },
+  "AgADpr4xG7pksFc": {
+    "name": "Phastos"
+  },
+  "AgADp74xG7pksFc": {
+    "name": "Sprite"
+  },
+  "AgADqL4xG7pksFc": {
+    "name": "Gilgamesh"
+  },
+  "AgADwr4xG7pksFc": {
+    "name": "Arishem"
+  },
+  "AgADzL4xG7pksFc": {
+    "name": "America Chavez"
+  },
+  "AgADzr4xG7pksFc": {
+    "name": "Zeus"
+  },
+  "AgAD0r4xG7pksFc": {
+    "name": "Cassie Lang"
+  },
+  "AgADL7UxG2Kr3VI": {
+    "name": "Thanos"
+  },
+  "AgADsNAxG7pkuFc": {
+    "name": "Odin"
+  },
+  "AgADq7QxGzay5FI": {
+    "name": "Hela"
+  },
+  "AgAD1b4xG7pksFc": {
+    "name": "Iron Heart"
+  },
+  "AgAD2b4xG7pksFc": {
+    "name": "Laufey"
+  },
+  "AgAD2L4xG7pksFc": {
+    "name": "Loki"
+  },
+  "AgAD3b4xG7pksFc": {
+    "name": "Heimdall"
+  },
+  "AgAD474xG7pksFc": {
+    "name": "Casket Of Ancient Winters"
+  },
+  "AgAD5L4xG7pksFc": {
+    "name": "Hofund"
+  },
+  "AgAD574xG7pksFc": {
+    "name": "Dr Octavius"
+  },
+  "AgAD7L4xG7pksFc": {
+    "name": "Battle Armour"
+  },
+  "AgAD8L4xG7pksFc": {
+    "name": "Infinity Gauntlet"
+  },
+  "AgAD9L4xG7pksFc": {
+    "name": "Abomination"
+  },
+  "AgAD974xG7pksFc": {
+    "name": "Whiplash"
+  },
+  "AgAD-L4xG7pksFc": {
+    "name": "Red skull"
+  },
+  "AgAD-b4xG7pksFc": {
+    "name": "Aldrich killian"
+  },
+  "AgAD_L4xG7pksFc": {
+    "name": "Frigga"
+  },
+  "AgAEvzEbumSwVw": {
+    "name": "Ultron"
+  },
+  "AgADAb8xG7pksFc": {
+    "name": "Quick Silver"
+  },
+  "AgADBL8xG7pksFc": {
+    "name": "Mordo"
+  },
+  "AgADBb8xG7pksFc": {
+    "name": "Kaecilius"
+  },
+  "AgADDL8xG7pksFc": {
+    "name": "Agatha"
+  },
+  "AgADDr8xG7pksFc": {
+    "name": "Kang the conqueror"
+  },
+  "AgADYr8xGwciMVQ": {
+    "name": "Mjolnir"
+  },
+  "AgADFL8xG7pksFc": {
+    "name": "Moon knight"
+  },
+  "AgADFb8xG7pksFc": {
+    "name": "Jarvis"
+  },
+  "AgADHL8xG7pksFc": {
+    "name": "Ego"
+  },
+  "AgADIb8xG7pksFc": {
+    "name": "She Hulk"
+  },
+  "AgADQL8xG7pksFc": {
+    "name": "Ms Marvel"
+  },
+  "AgADR78xG7pksFc": {
+    "name": "Giah"
+  },
+  "AgADTL8xG7pksFc": {
+    "name": "Kate Bishop"
+  },
+  "AgADT78xG7pksFc": {
+    "name": "Echo"
+  },
+  "AgADUL8xG7pksFc": {
+    "name": "Sylvie"
+  },
+  "AgADVr8xG7pksFc": {
+    "name": "Gorr The God butcher"
+  },
+  "AgADXr8xG7pksFc": {
+    "name": "Captain Carter"
+  },
+  "AgADY78xG7pksFc": {
+    "name": "Kill Monger"
+  },
+  "AgADZL8xG7pksFc": {
+    "name": "Kingpin"
+  },
+  "AgADZb8xG7pksFc": {
+    "name": "Daredevil"
+  },
+  "AgADn80xG7pkuFc": {
+    "name": "Ebony Maw"
+  },
+  "AgADaL8xG7pksFc": {
+    "name": "Corvus Glaive"
+  },
+  "AgADbb8xG7pksFc": {
+    "name": "Proxima Midnight"
+  },
+  "AgADb78xG7pksFc": {
+    "name": "Cull Obsidian"
+  },
+  "AgADcL8xG7pksFc": {
+    "name": "Pepper Potts"
+  },
+  "AgADdb8xG7pksFc": {
+    "name": "Billy Maximoff"
+  },
+  "AgADeb8xG7pksFc": {
+    "name": "Wolverine"
+  },
+  "AgADe78xG7pksFc": {
+    "name": "Deadpool"
+  },
+  "AgADiL8xG7pksFc": {
+    "name": "Magneto"
+  },
+  "AgADib8xG7pksFc": {
+    "name": "Professor Charles Xavier"
+  },
+  "AgADVsExG0MO2Vc": {
+    "name": "Jean Grey"
+  },
+  "AgADVMAxG7pksFc": {
+    "name": "Ying Li"
+  },
+  "AgADVsAxG7pksFc": {
+    "name": "Darcy Lewis"
+  },
+  "AgADWsAxG7pksFc": {
+    "name": "Happy Hogan"
+  },
+  "AgADXcAxG7pksFc": {
+    "name": "Jane Foster"
+  },
+  "AgADX8AxG7pksFc": {
+    "name": "Maria Hill"
+  },
+  "AgADYMAxG7pksFc": {
+    "name": "Sharon Carter"
+  },
+  "AgADYsAxG7pksFc": {
+    "name": "Ned Leeds"
+  },
+  "AgADZMAxG7pksFc": {
+    "name": "Phil Coulson"
+  },
+  "AgADZcAxG7pksFc": {
+    "name": "Miek"
+  },
+  "AgADZsAxG7pksFc": {
+    "name": "Trevor Slattery"
+  },
+  "AgADa8AxG7pksFc": {
+    "name": "Betty Ross"
+  },
+  "AgADbcAxG7pksFc": {
+    "name": "Pepper Potts"
+  },
+  "AgADbsAxG7pksFc": {
+    "name": "J Jonah Jameson"
+  },
+  "AgADdcIxGxsiyFc": {
+    "name": "Howard Stark"
+  },
+  "AgADecAxG7pksFc": {
+    "name": "Viper"
+  },
+  "AgADe8AxG7pksFc": {
+    "name": "Crossbones"
+  },
+  "AgADpcwxG7pkuFc": {
+    "name": "Nakia"
+  },
+  "AgADp8wxG7pkuFc": {
+    "name": "Christine Palmer"
+  },
+  "AgADqswxG7pkuFc": {
+    "name": "Lady Sif"
+  },
+  "AgADq8wxG7pkuFc": {
+    "name": "Clea"
+  },
+  "AgADrswxG7pkuFc": {
+    "name": "Jessica Jones"
+  },
+  "AgADsswxG7pkuFc": {
+    "name": "Karen Page"
+  },
+  "AgADtswxG7pkuFc": {
+    "name": "Elektra"
+  },
+  "AgADucwxG7pkuFc": {
+    "name": "Mystique"
+  },
+  "AgADvMwxG7pkuFc": {
+    "name": "Rogue"
+  },
+  "AgADvcwxG7pkuFc": {
+    "name": "Kitty Pryde"
+  },
+  "AgADv8wxG7pkuFc": {
+    "name": "Betty Brant"
+  },
+  "AgADwswxG7pkuFc": {
+    "name": "Storm"
+  },
+  "AgADxcwxG7pkuFc": {
+    "name": "Aunt May"
+  },
+  "AgADx8wxG7pkuFc": {
+    "name": "Kraglin"
+  },
+  "AgADyMwxG7pkuFc": {
+    "name": "Ulysses Klaue"
+  },
+  "AgADyswxG7pkuFc": {
+    "name": "The Destroyer"
+  },
+  "AgADy8wxG7pkuFc": {
+    "name": "The Space Stone"
+  },
+  "AgADzMwxG7pkuFc": {
+    "name": "The Reality Stone"
+  },
+  "AgADzcwxG7pkuFc": {
+    "name": "The Power Stone"
+  },
+  "AgADzswxG7pkuFc": {
+    "name": "The Mind Stone"
+  },
+  "AgAD0MwxG7pkuFc": {
+    "name": "The Soul Stone"
+  },
+  "AgAD0cwxG7pkuFc": {
+    "name": "The Time Stone"
+  },
+  "AgAD2cwxG7pkuFc": {
+    "name": "Gungnir"
+  },
+  "AgAD1cwxG7pkuFc": {
+    "name": "Warlock Eye"
+  },
+  "AgAD2swxG7pkuFc": {
+    "name": "Fandral"
+  },
+  "AgAD28wxG7pkuFc": {
+    "name": "Volstagg"
+  },
+  "AgAD3MwxG7pkuFc": {
+    "name": "Hogun"
+  },
+  "AgAD5MwxG7pkuFc": {
+    "name": "The grandmaster"
+  },
+  "AgAD5swxG7pkuFc": {
+    "name": "Topaz"
+  },
+  "AgAD58wxG7pkuFc": {
+    "name": "Dr Arnim Zola"
+  },
+  "AgAD6cwxG7pkuFc": {
+    "name": "Erik Selvig"
+  },
+  "AgAD68wxG7pkuFc": {
+    "name": "John Garrett"
+  },
+  "AgAD8MwxG7pkuFc": {
+    "name": "Jack Rollins"
+  },
+  "AgAD88wxG7pkuFc": {
+    "name": "senator stern"
+  },
+  "AgAD98wxG7pkuFc": {
+    "name": "Sitwell"
+  },
+  "AgAD-8wxG7pkuFc": {
+    "name": "Redwing Mark I"
+  },
+  "AgAD_MwxG7pkuFc": {
+    "name": "Cosmo"
+  },
+  "AgAD_cwxG7pkuFc": {
+    "name": "Chitauri Foot Soldier"
+  },
+  "AgAD_swxG7pkuFc": {
+    "name": "General Ross"
+  },
+  "AgAEzTEbumS4Vw": {
+    "name": "Katy Chen"
+  },
+  "AgADA80xG7pkuFc": {
+    "name": "Xu Xialing"
+  },
+  "AgADBM0xG7pkuFc": {
+    "name": "Mariko Yashida"
+  },
+  "AgADCs0xG7pkuFc": {
+    "name": "Silver Samurai"
+  },
+  "AgADC80xG7pkuFc": {
+    "name": "Jubilee"
+  },
+  "AgADDM0xG7pkuFc": {
+    "name": "Night Crawler"
+  },
+  "AgADDc0xG7pkuFc": {
+    "name": "Gambit"
+  },
+  "AgADDs0xG7pkuFc": {
+    "name": "Colossus"
+  },
+  "AgADD80xG7pkuFc": {
+    "name": "Beast Hank"
+  },
+  "AgADE80xG7pkuFc": {
+    "name": "Psylocke"
+  },
+  "AgADL80xG7pkuFc": {
+    "name": "Angel"
+  },
+  "AgADf80xG7pkuFc": {
+    "name": "Mr Fantastic"
+  },
+  "AgADjM0xG7pkuFc": {
+    "name": "Black Bolt"
+  },
+  "AgADjs0xG7pkuFc": {
+    "name": "Cyclops"
+  },
+  "AgADj80xG7pkuFc": {
+    "name": "Ghost (Ava Starr)"
+  },
+  "AgADkM0xG7pkuFc": {
+    "name": "Taskmaster"
+  },
+  "AgADks0xG7pkuFc": {
+    "name": "Yondu"
+  },
+  "AgADlc0xG7pkuFc": {
+    "name": "Yaka Arrow"
+  },
+  "AgADls0xG7pkuFc": {
+    "name": "The Collector"
+  },
+  "AgADl80xG7pkuFc": {
+    "name": "Chitauri Gorillas"
+  },
+  "AgADms0xG7pkuFc": {
+    "name": "Outriders"
+  },
+  "AgADnM0xG7pkuFc": {
+    "name": "Sakaarans"
+  },
+  "AgADoc0xG7pkuFc": {
+    "name": "Adam Warlock"
+  },
+  "AgADpM0xG7pkuFc": {
+    "name": "Namor"
+  },
+  "AgADpc0xG7pkuFc": {
+    "name": "Cable"
+  },
+  "AgADrM0xG7pkuFc": {
+    "name": "The Watcher"
+  },
+  "AgADuM0xG7pkuFc": {
+    "name": "Taserface"
+  },
+  "AgADvM0xG7pkuFc": {
+    "name": "Mobius"
+  },
+  "AgADvc0xG7pkuFc": {
+    "name": "Morbius"
+  },
+  "AgADvs0xG7pkuFc": {
+    "name": "Hunter B 15"
+  },
+  "AgADwM0xG7pkuFc": {
+    "name": "Venom"
+  },
+  "AgADwc0xG7pkuFc": {
+    "name": "Ghost Rider"
+  },
+  "AgADxc0xG7pkuFc": {
+    "name": "Shield"
+  },
+  "AgAD0M0xG7pkuFc": {
+    "name": "Thanos Sword"
+  },
+  "AgAD0c0xG7pkuFc": {
+    "name": "Steve Rogers & Bucky Barnes"
+  },
+  "AgAD180xG7pkuFc": {
+    "name": "Hawkeye Bow And Arrow"
+  },
+  "AgAD280xG7pkuFc": {
+    "name": "Bruce Banner"
+  },
+  "AgAD3M0xG7pkuFc": {
+    "name": "Team Iron Man"
+  },
+  "AgAD380xG7pkuFc": {
+    "name": "Team Captain America"
+  },
+  "AgAD7M0xG7pkuFc": {
+    "name": "The Avengers 2012"
+  },
+  "AgAD18ExG6-MOFQ": {
+    "name": "The Big Three"
+  },
+  "AgAD6s0xG7pkuFc": {
+    "name": "Captain America And Thor"
+  },
+  "AgAD7s0xG7pkuFc": {
+    "name": "Iron Man And Dr.Strange"
+  },
+  "AgAD880xG7pkuFc": {
+    "name": "SpiderMan"
+  },
+  "AgADrcMxG1bDIVQ": {
+    "name": "SpiderMan"
+  },
+  "AgADf9AxG7pkuFc": {
+    "name": "Everett Ross"
+  },
+  "AgADg9AxG7pkuFc": {
+    "name": "Havok"
+  },
+  "AgADhdAxG7pkuFc": {
+    "name": "Wong"
+  },
+  "AgADidAxG7pkuFc": {
+    "name": "Ajak"
+  },
+  "AgADjNAxG7pkuFc": {
+    "name": "Ronan The Accuser"
+  },
+  "AgADjtAxG7pkuFc": {
+    "name": "Banshee"
+  },
+  "AgADktAxG7pkuFc": {
+    "name": "Juggernaut"
+  },
+  "AgADk9AxG7pkuFc": {
+    "name": "Shatterstar"
+  },
+  "AgADldAxG7pkuFc": {
+    "name": "Negasonic Teenage Warhead"
+  },
+  "AgADm9AxG7pkuFc": {
+    "name": "Sebastian Shaw"
+  },
+  "AgADp9AxG7pkuFc": {
+    "name": "X 23 Laura Kinney"
+  },
+  "AgADqdAxG7pkuFc": {
+    "name": "Yon Rogg"
+  },
+  "AgADq9AxG7pkuFc": {
+    "name": "Malekith"
+  },
+  "AgADrNAxG7pkuFc": {
+    "name": "Whizzer"
+  },
+  "AgADrtAxG7pkuFc": {
+    "name": "The Executioner"
+  },
+  "AgADr9AxG7pkuFc": {
+    "name": "Dr Helen Cho"
+  },
+  "AgADudAxG7pkuFc": {
+    "name": "Apocalypse"
+  },
+  "AgADCL4xG6x16Vc": {
+    "name": "Mystique"
+  },
+  "AgADwtAxG7pkuFc": {
+    "name": "Daisy Johnson Quake"
+  },
+  "AgADxNAxG7pkuFc": {
+    "name": "Emma Frost"
+  },
+  "AgADEMExG5vcuVc": {
+    "name": "T Chaka"
+  },
+  "AgADG8ExG5vcuVc": {
+    "name": "Valentina Allegra de Fontaine"
+  },
+  "AgADkb8xG4It0Vc": {
+    "name": "Anne Weying"
+  },
+  "AgADk78xG4It0Vc": {
+    "name": "Carlton Drake"
+  },
+  "AgADlL8xG4It0Vc": {
+    "name": "Dr Dora Skirth"
+  },
+  "AgADlb8xG4It0Vc": {
+    "name": "Dr Dan Lewis"
+  },
+  "AgADlr8xG4It0Vc": {
+    "name": "Ms Chen"
+  },
+  "AgADl78xG4It0Vc": {
+    "name": "Riot"
+  },
+  "AgADmL8xG4It0Vc": {
+    "name": "Eddie Brock"
+  },
+  "AgADmb8xG4It0Vc": {
+    "name": "Eddie Brock and Venom"
+  },
+  "AgADm78xG4It0Vc": {
+    "name": "Blind Al"
+  },
+  "AgADn78xG4It0Vc": {
+    "name": "The Human Torch"
+  },
+  "AgADpL8xG4It0Vc": {
+    "name": "Cassandra Nova"
+  },
+  "AgADq78xG4It0Vc": {
+    "name": "Janet van Dyn"
+  },
+  "AgADrL8xG4It0Vc": {
+    "name": "Monica Rambeau"
+  },
+  "AgADrr8xG4It0Vc": {
+    "name": "Dar Benn"
+  },
+  "AgADs78xG4It0Vc": {
+    "name": "Dogpool"
+  },
+  "AgADtL8xG4It0Vc": {
+    "name": "War Machine"
+  },
+  "AgADwb8xG4It0Vc": {
+    "name": "Black Widow Bite"
+  },
+  "AgADxL8xG4It0Vc": {
+    "name": "Mj"
+  },
+  "AgADxb8xG4It0Vc": {
+    "name": "Yukio"
+  },
+  "AgADyL8xG4It0Vc": {
+    "name": "Iron Man and SpiderMan"
+  },
+  "AgADzb8xG4It0Vc": {
+    "name": "Kazi"
+  },
+  "AgADlckxGyB2SFQ": {
+    "name": "John Walker"
+  },
+  "AgAD1r8xG4It0Vc": {
+    "name": "Hawkeye and Black Widow"
+  },
+  "AgAD2r8xG4It0Vc": {
+    "name": "Bucky Barnes The winter Soldier ( hydra)"
+  },
+  "AgAD5b8xG4It0Vc": {
+    "name": "Captain america and Black Widow"
+  },
+  "AgADmr8xG4It0Vc": {
+    "name": "Vanessa"
+  },
+  "AgADZMAxG4It0Vc": {
+    "name": "Obadiah Stane"
+  },
+  "AgADZsAxG4It0Vc": {
+    "name": "Ho Yinsen"
+  },
+  "AgADCMMxG6-MQFQ": {
+    "name": "Christine Everhart"
+  },
+  "AgADasAxG4It0Vc": {
+    "name": "Loki and Thor"
+  },
+  "AgADbsAxG4It0Vc": {
+    "name": "Dr Abraham Erskine"
+  },
+  "AgADb8AxG4It0Vc": {
+    "name": "Heinz Kruger"
+  },
+  "AgADdcAxG4It0Vc": {
+    "name": "Emil Blonsky"
+  },
+  "AgADgcAxG4It0Vc": {
+    "name": "Martina"
+  },
+  "AgADi8AxG4It0Vc": {
+    "name": "The Fenris Wolf"
+  },
+  "AgADjMAxG4It0Vc": {
+    "name": "Surtur"
+  },
+  "AgADjcAxG4It0Vc": {
+    "name": "Harley Keener"
+  },
+  "AgADksAxG4It0Vc": {
+    "name": "Maya Hansen"
+  },
+  "AgADlsAxG4It0Vc": {
+    "name": "Ramonda"
+  },
+  "AgADmMAxG4It0Vc": {
+    "name": "W Kabi"
+  },
+  "AgADncAxG4It0Vc": {
+    "name": "Zuri"
+  },
+  "AgADocAxG4It0Vc": {
+    "name": "Mighty Thor"
+  },
+  "AgADpMAxG4It0Vc": {
+    "name": "Yellow Jacket"
+  },
+  "AgADpsAxG4It0Vc": {
+    "name": "Luis"
+  },
+  "AgADqsAxG4It0Vc": {
+    "name": "Maggie Lang"
+  },
+  "AgADq8AxG4It0Vc": {
+    "name": "Sonny Burch"
+  },
+  "AgADr8AxG4It0Vc": {
+    "name": "MODOK"
+  },
+  "AgADssAxG4It0Vc": {
+    "name": "Jentorra"
+  },
+  "AgADtMAxG4It0Vc": {
+    "name": "Jimmy Woo"
+  },
+  "AgADuMAxG4It0Vc": {
+    "name": "Victor Timely"
+  },
+  "AgADvMAxG4It0Vc": {
+    "name": "Eleanor Bishop"
+  },
+  "AgADvcAxG4It0Vc": {
+    "name": "Jack Duquesne"
+  },
+  "AgADvsAxG4It0Vc": {
+    "name": "Laura Barton"
+  },
+  "AgADwMAxG4It0Vc": {
+    "name": "Melina Vostokoff"
+  },
+  "AgADzcAxG4It0Vc": {
+    "name": "Ouroboros OB"
+  },
+  "AgADx8AxG4It0Vc": {
+    "name": "Dreykov"
+  },
+  "AgAD48AxG4It0Vc": {
+    "name": "Ravonna Renslayer"
+  },
+  "AgAD5sAxG4It0Vc": {
+    "name": "Classic Loki"
+  },
+  "AgAD58AxG4It0Vc": {
+    "name": "Kid Loki (Who Killed The THOR)"
+  },
+  "AgADD8ExG4It0Vc": {
+    "name": "Talos"
+  },
+  "AgADK8ExG4It0Vc": {
+    "name": "Liz Allan"
+  },
+  "AgADL8ExG4It0Vc": {
+    "name": "Mysterio"
+  },
+  "AgADMcExG4It0Vc": {
+    "name": "Electro"
+  },
+  "AgADMsExG4It0Vc": {
+    "name": "Green Goblin"
+  },
+  "AgADN8ExG4It0Vc": {
+    "name": "Sandman"
+  },
+  "AgADP8ExG4It0Vc": {
+    "name": "Arthur Harrow"
+  },
+  "AgADQMExG4It0Vc": {
+    "name": "Khonshu"
+  },
+  "AgADQsExG4It0Vc": {
+    "name": "Layla El Faouly"
+  },
+  "AgADRMExG4It0Vc": {
+    "name": "Scarlet Scarab"
+  },
+  "AgADTcExG4It0Vc": {
+    "name": "Titania"
+  },
+  "AgADWMExG4It0Vc": {
+    "name": "MARK I Armour"
+  },
+  "AgADFrIxG-S4BFM": {
+    "name": "Hulk Buster"
+  },
+  "AgADY8ExG4It0Vc": {
+    "name": "Storm Breaker"
+  },
+  "AgADaMExG4It0Vc": {
+    "name": "Bucky Vibranium Arm"
+  },
+  "AgADacExG4It0Vc": {
+    "name": "Sling Ring"
+  },
+  "AgADasExG4It0Vc": {
+    "name": "Loki Scepter"
+  },
+  "AgADksExG4It0Vc": {
+    "name": "The Ten Rings"
+  },
+  "AgADlcExG4It0Vc": {
+    "name": "MARK II Armour"
+  },
+  "AgADS78xG4It2Vc": {
+    "name": "Iron Man"
+  },
+  "AgADM8ExG0MO2Vc": {
+    "name": "Spoils of War"
+  },
+  "AgADFMAxG6x14Vc": {
+    "name": "Asgard"
+  },
+  "AgADGcAxG6x14Vc": {
+    "name": "Gwen stacy"
+  },
+  "AgADpcMxG8FJiFQ": {
+    "name": "X 23"
+  },
+  "AgADzMAxG6x14Vc": {
+    "name": "Major Allen"
+  },
+  "AgADx8AxG6x14Vc": {
+    "name": "Raza"
+  },
+  "AgAD18AxG6x14Vc": {
+    "name": "Amira Ahmed"
+  },
+  "AgAD2cAxG6x14Vc": {
+    "name": "General Gabriel"
+  },
+  "AgAD28AxG6x14Vc": {
+    "name": "Abu Bakaar"
+  },
+  "AgAD3cAxG6x14Vc": {
+    "name": "William Ginter Riva"
+  },
+  "AgADDcExG6x14Vc": {
+    "name": "Ice Man"
+  },
+  "AgADD8ExG6x14Vc": {
+    "name": "Victor Creed Sabretooth"
+  },
+  "AgADEcExG6x14Vc": {
+    "name": "Lady Death Strike"
+  },
+  "AgADFcExG6x14Vc": {
+    "name": "Pyro"
+  },
+  "AgADGMExG6x14Vc": {
+    "name": "William Stryker"
+  },
+  "AgAD4sQxG0hx4Fc": {
+    "name": "Jotunheim"
+  },
+  "AgADBMUxG0hx4Fc": {
+    "name": "Tesseract"
+  },
+  "AgADB8UxG0hx4Fc": {
+    "name": "Crown of Black Fire"
+  },
+  "AgADJMExG6x14Vc": {
+    "name": "Kayla Silver Fox"
+  },
+  "AgADCcUxG0hx4Fc": {
+    "name": "Eye of Agamotto"
+  },
+  "AgADKMExG6x14Vc": {
+    "name": "Deadpool And Wolverine"
+  },
+  "AgADC8UxG0hx4Fc": {
+    "name": "Arc Reactor"
+  },
+  "AgADDcUxG0hx4Fc": {
+    "name": "Knowhere"
+  },
+  "AgADLsExG6x14Vc": {
+    "name": "Angel Salvadore"
+  },
+  "AgADMcExG6x14Vc": {
+    "name": "Moira Mactaggert"
+  },
+  "AgADNMExG6x14Vc": {
+    "name": "Darwin"
+  },
+  "AgADNsExG6x14Vc": {
+    "name": "Bolivar Trask"
+  },
+  "AgADN8ExG6x14Vc": {
+    "name": "Blink"
+  },
+  "AgADOMExG6x14Vc": {
+    "name": "Bishop"
+  },
+  "AgADP8ExG6x14Vc": {
+    "name": "Angel Dust"
+  },
+  "AgADQsExG6x14Vc": {
+    "name": "Ajax"
+  },
+  "AgADR8ExG6x14Vc": {
+    "name": "Weasel"
+  },
+  "AgADSsExG6x14Vc": {
+    "name": "Death"
+  },
+  "AgADUMExG6x14Vc": {
+    "name": "Charles Xavier"
+  },
+  "AgADUcExG6x14Vc": {
+    "name": "Erik Magneto"
+  },
+  "AgADVMExG6x14Vc": {
+    "name": "Hank McCoy Beast"
+  },
+  "AgADXcExG6x14Vc": {
+    "name": "Cannonball"
+  },
+  "AgADp8ExG6XboFQ": {
+    "name": "Silver Surfer"
+  },
+  "AgADOMQxG0hx6Fc": {
+    "name": "Bifrost"
+  },
+  "AgADRMQxG0hx6Fc": {
+    "name": "Stan Lee"
+  },
+  "AgADccExG8Oz6Vc": {
+    "name": "Jon Jon"
+  },
+  "AgADdcExG8Oz6Vc": {
+    "name": "Razor Fist"
+  },
+  "AgADd8ExG8Oz6Vc": {
+    "name": "Death Dealer"
+  },
+  "AgADfcExG8Oz6Vc": {
+    "name": "Morris"
+  },
+  "AgADmcExG8Oz6Vc": {
+    "name": "Ares"
+  },
+  "AgADm8ExG8Oz6Vc": {
+    "name": "Cyborg Thor"
+  },
+  "AgADpMExG8Oz6Vc": {
+    "name": "Luke Cage"
+  },
+  "AgADpcExG8Oz6Vc": {
+    "name": "Iron Fist"
+  },
+  "AgADqMExG8Oz6Vc": {
+    "name": "Veranke"
+  },
+  "AgADl7AxG7akBFM": {
+    "name": "Medusa"
+  },
+  "AgADssExG8Oz6Vc": {
+    "name": "Caiera"
+  },
+  "AgADs8ExG8Oz6Vc": {
+    "name": "Namora"
+  },
+  "AgADvMExG8Oz6Vc": {
+    "name": "Rick Jones"
+  },
+  "AgADv8ExG8Oz6Vc": {
+    "name": "Tom Foster"
+  },
+  "AgADwMExG8Oz6Vc": {
+    "name": "Wonder Man"
+  },
+  "AgADwcExG8Oz6Vc": {
+    "name": "Skaar"
+  },
+  "AgADxMExG8Oz6Vc": {
+    "name": "Hiroim"
+  },
+  "AgADkb8xG3i9IVQ": {
+    "name": "Death s Head"
+  },
+  "AgADzcExG8Oz6Vc": {
+    "name": "black Goliath"
+  },
+  "AgAD-sExG8Oz6Vc": {
+    "name": "Hulkling"
+  },
+  "AgAD_sExG8Oz6Vc": {
+    "name": "Patriot"
+  },
+  "AgADA8IxG8Oz6Vc": {
+    "name": "Tigra"
+  },
+  "AgADBcIxG8Oz6Vc": {
+    "name": "Night Hawk"
+  },
+  "AgADDsIxG8Oz6Vc": {
+    "name": "Radioactive Man"
+  },
+  "AgADEMIxG8Oz6Vc": {
+    "name": "Bulls Eye"
+  },
+  "AgADEsIxG8Oz6Vc": {
+    "name": "Taskmaster"
+  },
+  "AgADFMIxG8Oz6Vc": {
+    "name": "Song Bird"
+  },
+  "AgADFsIxG8Oz6Vc": {
+    "name": "Wiccan"
+  },
+  "AgADF8IxG8Oz6Vc": {
+    "name": "Atlas"
+  },
+  "AgADJMIxG8Oz6Vc": {
+    "name": "Spectrum"
+  },
+  "AgADJcIxG8Oz6Vc": {
+    "name": "Sentry"
+  },
+  "AgADRsIxG8Oz6Vc": {
+    "name": "Cloak And Dagger"
+  },
+  "AgADSMIxG8Oz6Vc": {
+    "name": "Franklin Richards"
+  },
+  "AgADTcIxG8Oz6Vc": {
+    "name": "Shroud"
+  },
+  "AgAD87YxG6DB7FM": {
+    "name": "Night Thrasher"
+  },
+  "AgADUMIxG8Oz6Vc": {
+    "name": "Nitro"
+  },
+  "AgADUcIxG8Oz6Vc": {
+    "name": "Rachel Summers"
+  },
+  "AgADV8IxG8Oz6Vc": {
+    "name": "Speed Freek"
+  },
+  "AgADXsIxG8Oz6Vc": {
+    "name": "World War Hulk"
+  },
+  "AgADorYxG2HV9FM": {
+    "name": "Hulk 2012"
+  },
+  "AgAD0MIxG8Oz-Vc": {
+    "name": "Worthy Captain America"
+  },
+  "AgADgMExG2-WkVQ": {
+    "name": "Iron Spider Armour"
+  },
+  "AgAD78QxGwciKVQ": {
+    "name": "Iron Man and Captain America"
+  },
+  "AgADz8IxG7X78Vc": {
+    "name": "Iron Man and War Machine"
+  },
+  "AgAD4sUxG8FJgFQ": {
+    "name": "Dr Doom"
+  },
+  "AgAD2sUxG8FJgFQ": {
+    "name": "Lady Death"
+  },
+  "AgADyMMxG7X7-Vc": {
+    "name": "Living Tribunal"
+  },
+  "AgADacAxG6bO-Vc": {
+    "name": "Broken Shield"
+  },
+  "AgADb8AxG6bO-Vc": {
+    "name": "Hel"
+  },
+  "AgADccAxG6bO-Vc": {
+    "name": "Muspelheim"
+  },
+  "AgAD3MMxG7X7-Vc": {
+    "name": "Svartalfheim"
+  },
+  "AgADdcAxG6bO-Vc": {
+    "name": "Nidavellir"
+  },
+  "AgADYMAxG6bO-Vc": {
+    "name": "Baby Groot"
+  },
+  "AgAD1cUxG8FJgFQ": {
+    "name": "Erik Magneto and Charles Xavier"
+  },
+  "AgADt8AxG6bOAVQ": {
+    "name": "Thanos and Lady Death"
+  },
+  "AgADusAxG6bOAVQ": {
+    "name": "The Sinister Six"
+  },
+  "AgADccAxG6bOAVQ": {
+    "name": "Strange Supreme"
+  },
+  "AgADML8xG7X7AVQ": {
+    "name": "The Thing"
+  },
+  "AgADbcAxG6bOAVQ": {
+    "name": "The Revengers"
+  },
+  "AgAD38UxG8FJgFQ": {
+    "name": "Fantastic Four"
+  },
+  "AgADv8IxG4b7AVQ": {
+    "name": "Invisible Girl"
+  },
+  "AgADDrIxGySIPFA": {
+    "name": "Hyperion"
+  },
+  "AgADI8MxG4b7AVQ": {
+    "name": "Thanos"
+  },
+  "AgADJ78xG4b7CVQ": {
+    "name": "The Punisher"
+  },
+  "AgADpcMxG7X7-Vc": {
+    "name": "Eitri The Dwarf"
+  },
+  "AgAD4sAxG4b7CVQ": {
+    "name": "SuperMan"
+  },
+  "AgAD7cAxG4b7CVQ": {
+    "name": "Batman Comic"
+  },
+  "AgAD-sAxG4b7CVQ": {
+    "name": "BatMan Who Laughs"
+  },
+  "AgADIbAxG7uhNVE": {
+    "name": "The Flash"
+  },
+  "AgADDcExG4b7CVQ": {
+    "name": "Cosmic Ghost Rider"
+  },
+  "AgADGcExG4b7CVQ": {
+    "name": "Lucifer MorningStar"
+  },
+  "AgADG8ExG4b7CVQ": {
+    "name": "Wonder Woman"
+  },
+  "AgADfr8xG3i9IVQ": {
+    "name": "Raven"
+  },
+  "AgADIMExG4b7CVQ": {
+    "name": "BeastBoy"
+  },
+  "AgADIsExG4b7CVQ": {
+    "name": "Cyborg"
+  },
+  "AgADssExG1bDIVQ": {
+    "name": "The Presence"
+  },
+  "AgADsMExG1bDIVQ": {
+    "name": "One Above All"
+  },
+  "AgAEwDEbGaQZVA": {
+    "name": "Spiderman 2099"
+  },
+  "AgADBsAxGxmkGVQ": {
+    "name": "Miles Morales"
+  },
+  "AgADB8AxGxmkGVQ": {
+    "name": "Balder"
+  },
+  "AgADCsAxGxmkGVQ": {
+    "name": "Angela"
+  },
+  "AgADC8AxGxmkGVQ": {
+    "name": "Karnila"
+  },
+  "AgADD8AxGxmkGVQ": {
+    "name": "Ulik"
+  },
+  "AgADFsAxGxmkGVQ": {
+    "name": "Mangog"
+  },
+  "AgADHMAxGxmkGVQ": {
+    "name": "Squirrel Girl"
+  },
+  "AgADI8AxGxmkGVQ": {
+    "name": "Superior Spiderman"
+  },
+  "AgADIcAxGxmkGVQ": {
+    "name": "Magik"
+  },
+  "AgADJcAxGxmkGVQ": {
+    "name": "Anti Venom"
+  },
+  "AgADKMAxGxmkGVQ": {
+    "name": "Beta Ray Bill"
+  },
+  "AgADOcAxG1bDKVQ": {
+    "name": "One Below All"
+  },
+  "AgADz8MxG1bDIVQ": {
+    "name": "Loki"
+  },
+  "AgADrcMxGxmkKVQ": {
+    "name": "Maestro"
+  },
+  "AgADssMxGxmkKVQ": {
+    "name": "Rune King Thor"
+  },
+  "AgADucMxGxmkKVQ": {
+    "name": "World Breaker Hulk"
+  },
+  "AgADxcMxGxmkKVQ": {
+    "name": "Ka Zar"
+  },
+  "AgADysMxGxmkKVQ": {
+    "name": "Doctor strangefate"
+  },
+  "AgAD2cMxGxmkKVQ": {
+    "name": "Beetel"
+  },
+  "AgAD38MxGxmkKVQ": {
+    "name": "Cosmic SpiderMan"
+  },
+  "AgAD7cMxGxmkKVQ": {
+    "name": "Tiamut The Communicator"
+  },
+  "AgAD_cMxGxmkKVQ": {
+    "name": "Stark Tower"
+  },
+  "AgAD7r8xG1bDKVQ": {
+    "name": "Daemon Targaryen"
+  },
+  "AgADA8AxG1bDKVQ": {
+    "name": "LongClaw Jon Snow Sword"
+  },
+  "AgADMMAxG1bDKVQ": {
+    "name": "Switch Blade"
+  },
+  "AgADrMQxGxmkKVQ": {
+    "name": "Rhino"
+  },
+  "AgAD2cMxG40EIFQ": {
+    "name": "Danaerys Targaryen"
+  },
+  "AgADtMQxGxmkKVQ": {
+    "name": "Hob Goblin"
+  },
+  "AgADw8QxGxmkKVQ": {
+    "name": "Shocker"
+  },
+  "AgADzMQxGxmkKVQ": {
+    "name": "Omega Sentinel"
+  },
+  "AgAD08QxGxmkKVQ": {
+    "name": "Lizard"
+  },
+  "AgAD2MQxGxmkKVQ": {
+    "name": "A Bomb"
+  },
+  "AgADB8UxGxmkKVQ": {
+    "name": "White Tiger"
+  },
+  "AgADCsUxGxmkKVQ": {
+    "name": "Fantomex"
+  },
+  "AgADDMUxGxmkKVQ": {
+    "name": "Man Thing"
+  },
+  "AgADYcQxGwciKVQ": {
+    "name": "Jeff The Land Shark"
+  },
+  "AgADDcAxGwJwKVQ": {
+    "name": "Mephisto"
+  },
+  "AgADacQxGwciKVQ": {
+    "name": "Shazam"
+  },
+  "AgADa8QxGwciKVQ": {
+    "name": "Black Adam"
+  },
+  "AgADbMQxGwciKVQ": {
+    "name": "Superman Shazam & Black Adam"
+  },
+  "AgADbcQxGwciKVQ": {
+    "name": "Madam Web"
+  },
+  "AgADhskxGyB2SFQ": {
+    "name": "Homelander"
+  },
+  "AgADcsQxGwciKVQ": {
+    "name": "Soldier Boy"
+  },
+  "AgADc8QxGwciKVQ": {
+    "name": "Billy Butcher"
+  },
+  "AgADd8QxGwciKVQ": {
+    "name": "150 Supes Vs 1 Human"
+  },
+  "AgADf8QxGwciKVQ": {
+    "name": "StormFront"
+  },
+  "AgADhcQxGwciKVQ": {
+    "name": "Hughie"
+  },
+  "AgADv8QxGwciKVQ": {
+    "name": "The Deep"
+  },
+  "AgADwMQxGwciKVQ": {
+    "name": "A Train"
+  },
+  "AgAD08QxGwciKVQ": {
+    "name": "Black Noir"
+  },
+  "AgAD3cQxGwciKVQ": {
+    "name": "Dr Sivana"
+  },
+  "AgAD4cQxGwciKVQ": {
+    "name": "Council Of Wizards"
+  },
+  "AgAD_L8xG1bDKVQ": {
+    "name": "Rhaenyra Targaryen"
+  },
+  "AgAD6sQxGwciKVQ": {
+    "name": "Aemond Targaryen"
+  },
+  "AgAD_b8xG1bDKVQ": {
+    "name": "Daemon and Rhanaerya Targaryen"
+  },
+  "AgAD8cQxGwciKVQ": {
+    "name": "Viserys Targaryen"
+  },
+  "AgAD8sQxGwciKVQ": {
+    "name": "Absorbing Man"
+  },
+  "AgAD88QxGwciKVQ": {
+    "name": "Seven Kingdoms"
+  },
+  "AgAExTEbByIpVA": {
+    "name": "Robin"
+  },
+  "AgADAsUxGwciKVQ": {
+    "name": "Batman Robert Pattinson"
+  },
+  "AgAD3sAxGwJwKVQ": {
+    "name": "Batman Christian Bale"
+  },
+  "AgADCcUxGwciKVQ": {
+    "name": "Joker"
+  },
+  "AgADEcUxGwciKVQ": {
+    "name": "Harley Quinn"
+  },
+  "AgAD68AxG4V1KFQ": {
+    "name": "Scarlet Witch"
+  },
+  "AgADyb4xGwJwMVQ": {
+    "name": "Galactus"
+  },
+  "AgADFL8xGwJwMVQ": {
+    "name": "Starlight"
+  },
+  "AgADFb8xGwJwMVQ": {
+    "name": "Queen Maeve"
+  },
+  "AgADZ78xGwciMVQ": {
+    "name": "Retro Wanda"
+  },
+  "AgADLcMxG6-MOFQ": {
+    "name": "Penny Parker"
+  },
+  "AgADMMMxG6-MOFQ": {
+    "name": "Constrictor"
+  },
+  "AgADMcMxG6-MOFQ": {
+    "name": "Boomerang"
+  },
+  "AgADM8MxG6-MOFQ": {
+    "name": "Black Cat"
+  },
+  "AgADNMMxG6-MOFQ": {
+    "name": "Captain Britain"
+  },
+  "AgADNsMxG6-MOFQ": {
+    "name": "Mockingbird"
+  },
+  "AgADB8IxG9YSOFQ": {
+    "name": "Scarlett Witch And Dr Strange"
+  },
+  "AgAD48IxG6-MQFQ": {
+    "name": "Zombie Strange"
+  },
+  "AgAD8MIxG6-MQFQ": {
+    "name": "The Spot"
+  },
+  "AgADPsUxGwciKVQ": {
+    "name": "Spiderverse"
+  },
+  "AgAD7sIxG6-MQFQ": {
+    "name": "Dr Strange"
+  },
+  "AgADO8UxGwciKVQ": {
+    "name": "Spider Ham"
+  },
+  "AgAD9MIxG6-MQFQ": {
+    "name": "The Prowler"
+  },
+  "AgADOMUxGwciKVQ": {
+    "name": "Noir"
+  },
+  "AgADPMIxG9YSOFQ": {
+    "name": "Miles and Gwen"
+  },
+  "AgAD-MIxG6-MQFQ": {
+    "name": "Peter Parker and Gwen Stacy"
+  },
+  "AgAD_MIxG6-MQFQ": {
+    "name": "Gwen Stacy"
+  },
+  "AgADCcMxG6-MQFQ": {
+    "name": "Joker"
+  },
+  "AgADDsMxG6-MQFQ": {
+    "name": "Dr Strange and Christine"
+  },
+  "AgADEMMxG6-MQFQ": {
+    "name": "Loki and Sylvie"
+  },
+  "AgADE8MxG6-MQFQ": {
+    "name": "Star Lord and Gamora"
+  },
+  "AgADFMMxG6-MQFQ": {
+    "name": "Tony Stark and Pepper Potts"
+  },
+  "AgADFcMxG6-MQFQ": {
+    "name": "Steve Rogers and Peggy Carter"
+  },
+  "AgADFsMxG6-MQFQ": {
+    "name": "Wanda and Vision"
+  },
+  "AgADF8MxG6-MQFQ": {
+    "name": "Peter Parker and Ned"
+  },
+  "AgADGMMxG6-MQFQ": {
+    "name": "Aquaman"
+  },
+  "AgADGcMxG6-MQFQ": {
+    "name": "Green Lantern"
+  },
+  "AgADqMMxG6-MQFQ": {
+    "name": "Scorpion"
+  },
+  "AgADsMMxG6-MQFQ": {
+    "name": "Hydro man"
+  },
+  "AgAD0cgxGyB2SFQ": {
+    "name": "Scream"
+  },
+  "AgAD0sgxGyB2SFQ": {
+    "name": "Betsy Braddock"
+  },
+  "AgADIskxGyB2SFQ": {
+    "name": "Union Jack"
+  },
+  "AgADJ8kxGyB2SFQ": {
+    "name": "Thundra"
+  },
+  "AgADOMkxGyB2SFQ": {
+    "name": "Black Knight"
+  },
+  "AgADOckxGyB2SFQ": {
+    "name": "Elsa Bloodstone"
+  },
+  "AgADOskxGyB2SFQ": {
+    "name": "Sunfire"
+  },
+  "AgADPMkxGyB2SFQ": {
+    "name": "Lock Jaw"
+  },
+  "AgADPskxGyB2SFQ": {
+    "name": "Avalanche"
+  },
+  "AgADQMkxGyB2SFQ": {
+    "name": "Invisible Woman"
+  },
+  "AgADQckxGyB2SFQ": {
+    "name": "Spider Woman"
+  },
+  "AgADRMkxGyB2SFQ": {
+    "name": "Spider Punk"
+  },
+  "AgADSMkxGyB2SFQ": {
+    "name": "Pavitra Prabhakar"
+  },
+  "AgADR8kxGyB2SFQ": {
+    "name": "Gorgon"
+  },
+  "AgADYskxGyB2SFQ": {
+    "name": "Azazel"
+  },
+  "AgADeskxGyB2SFQ": {
+    "name": "Symbiote Spiderman"
+  },
+  "AgADf8kxGyB2SFQ": {
+    "name": "Eros"
+  },
+  "AgADiMkxGyB2SFQ": {
+    "name": "Fixer"
+  },
+  "AgADj8kxGyB2SFQ": {
+    "name": "Shanna"
+  },
+  "AgADmskxGyB2SFQ": {
+    "name": "Catwoman"
+  },
+  "AgADm8kxGyB2SFQ": {
+    "name": "Dr Crane"
+  },
+  "AgADn8kxGyB2SFQ": {
+    "name": "Two Face"
+  },
+  "AgADpckxGyB2SFQ": {
+    "name": "Iron Fist"
+  },
+  "AgADpskxGyB2SFQ": {
+    "name": "War Thor"
+  },
+  "AgADuskxGyB2SFQ": {
+    "name": "Flash"
+  },
+  "AgADu8kxGyB2SFQ": {
+    "name": "Harry Osborn"
+  },
+  "AgADvckxGyB2SFQ": {
+    "name": "Aegon Targaryen"
+  },
+  "AgADvskxGyB2SFQ": {
+    "name": "Alicent Hightower"
+  },
+  "AgADv8kxGyB2SFQ": {
+    "name": "Jacerys Targaryen"
+  },
+  "AgADwckxGyB2SFQ": {
+    "name": "Gwen Stacy"
+  },
+  "AgADwskxGyB2SFQ": {
+    "name": "MJ"
+  },
+  "AgADyMUxGyB2UFQ": {
+    "name": "Ser Criston Cole"
+  },
+  "AgADWccxGyB2UFQ": {
+    "name": "Captain America vs Chitauri Army"
+  },
+  "AgADQcAxG9O1YVQ": {
+    "name": "Doctor Strange"
+  },
+  "AgADMMAxG9O1YVQ": {
+    "name": "Thor"
+  },
+  "AgADbsAxG9O1YVQ": {
+    "name": "Batman v/s Superman"
+  },
+  "AgADz8AxG9O1YVQ": {
+    "name": "Iron Man"
+  },
+  "AgADD8ExG9O1aVQ": {
+    "name": "Tyrion Lannister"
+  },
+  "AgADVsUxG8FJkFQ": {
+    "name": "Jamie Lannister"
+  },
+  "AgADIsIxGyL4aVQ": {
+    "name": "Sansa Stark"
+  },
+  "AgAD88AxG6XbkFQ": {
+    "name": "Arya Stark"
+  },
+  "AgADJsIxGyL4aVQ": {
+    "name": "Cersei Lannister"
+  },
+  "AgADJcIxGyL4aVQ": {
+    "name": "Venompool"
+  },
+  "AgADPcIxGyL4aVQ": {
+    "name": "Iron Throne"
+  },
+  "AgADRsMxGyL4aVQ": {
+    "name": "Batmobile"
+  },
+  "AgADScMxGyL4aVQ": {
+    "name": "Penguin"
+  },
+  "AgADTMMxGyL4aVQ": {
+    "name": "Alfred Pennyworth"
+  },
+  "AgADW8MxGyL4aVQ": {
+    "name": "Beyonder"
+  },
+  "AgAD08AxG6iceFQ": {
+    "name": "Erik Magneto And Charles Xavier"
+  },
+  "AgADQMIxG6XbmFQ": {
+    "name": "Chloe & Lucifer"
+  },
+  "AgADEuAxG1oUgVQ": {
+    "name": "HellBoy"
+  },
+  "AgADUcYxG6icgFQ": {
+    "name": "Three Phases of Moon"
+  },
+  "AgADHeAxG1oUgVQ": {
+    "name": "John Wick"
+  },
+  "AgADK8YxG8FJgFQ": {
+    "name": "Eternals Team"
+  },
+  "AgADDcYxG8FJgFQ": {
+    "name": "The Defenders"
+  },
+  "AgADLcYxG8FJgFQ": {
+    "name": "Dark Hawk"
+  },
+  "AgADL8YxG8FJgFQ": {
+    "name": "Satana Hellstorm"
+  },
+  "AgADM8YxG8FJgFQ": {
+    "name": "Hellicarrier"
+  },
+  "AgADS8QxG8FJiFQ": {
+    "name": "Bran Stark"
+  },
+  "AgADTsQxG8FJiFQ": {
+    "name": "Joffrey Baratheon"
+  },
+  "AgADT8QxG8FJiFQ": {
+    "name": "Caraxes Dragon"
+  },
+  "AgADUcQxG8FJiFQ": {
+    "name": "Vhagar Dragon"
+  },
+  "AgADVcQxG8FJiFQ": {
+    "name": "Vermithor (Bronze Fury) Dragon"
+  },
+  "AgADV8QxG8FJiFQ": {
+    "name": "Dreamfyre Dragon"
+  },
+  "AgADWMQxG8FJiFQ": {
+    "name": "Sunfyre Dragon"
+  },
+  "AgADWcQxG8FJiFQ": {
+    "name": "Syrax Dragon"
+  },
+  "AgADWsQxG8FJiFQ": {
+    "name": "Meleys Dragon"
+  },
+  "AgADW8QxG8FJiFQ": {
+    "name": "Seasmoke Dragon"
+  },
+  "AgADXcQxG8FJiFQ": {
+    "name": "Vermax Dragon"
+  },
+  "AgADXsQxG8FJiFQ": {
+    "name": "Arrax Dragon"
+  },
+  "AgADX8QxG8FJiFQ": {
+    "name": "Belarion Dragon"
+  },
+  "AgADc8QxG8FJiFQ": {
+    "name": "Sofia Falcone"
+  },
+  "AgADdMQxG8FJiFQ": {
+    "name": "James Gordon"
+  },
+  "AgADdsQxG8FJiFQ": {
+    "name": "Nightwing"
+  },
+  "AgADNsAxG9O1YVQ": {
+    "name": "Hela"
+  },
+  "AgADQMUxG8FJkFQ": {
+    "name": "Robb Stark"
+  },
+  "AgADRcUxG8FJkFQ": {
+    "name": "Petyr Baelish"
+  },
+  "AgADScUxG8FJkFQ": {
+    "name": "Khal Drogo"
+  },
+  "AgADS8UxG8FJkFQ": {
+    "name": "Ned Stark"
+  },
+  "AgADWMUxG8FJkFQ": {
+    "name": "Danaerys Targaryen and Jon Snow"
+  },
+  "AgADtMQxG2j_kVQ": {
+    "name": "John Constantine"
+  },
+  "AgAD0MUxG8FJkFQ": {
+    "name": "Kimiko"
+  },
+  "AgAD9MAxG6XbkFQ": {
+    "name": "Kraven the hunter"
+  },
+  "AgAD5sAxG2-WkVQ": {
+    "name": "Man of Steel"
+  },
+  "AgADbMExG2-WkVQ": {
+    "name": "Knull"
+  },
+  "AgADhcExG2-WkVQ": {
+    "name": "The Spiderman Trio"
+  },
+  "AgADiMExG2-WkVQ": {
+    "name": "Carnage"
+  },
+  "AgADi8ExG2-WkVQ": {
+    "name": "Toxin"
+  },
+  "AgADj8ExG2-WkVQ": {
+    "name": "Scarlet Spider"
+  },
+  "AgADkcExG2-WkVQ": {
+    "name": "Spiderman 2211"
+  },
+  "AgADksExG2-WkVQ": {
+    "name": "Spider Kaine"
+  },
+  "AgADEsMxG2-WoVQ": {
+    "name": "Avengers Endgame Team"
+  },
+  "AgADWcExG2-3qVQ": {
+    "name": "Guardians of the Galaxy"
+  },
+  "AgADU8ExG2-3qVQ": {
+    "name": "Invincible"
+  },
+  "AgADVMExG2-3qVQ": {
+    "name": "Omni Man"
+  },
+  "AgADVcExG2-3qVQ": {
+    "name": "Guardians of the Globe"
+  }
+}
